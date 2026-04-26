@@ -1,0 +1,6 @@
+[1G[0K⠙[1G[0K
+> vite_react_shadcn_ts@0.0.0 dev
+> concurrently "tsx server/index.ts" "vite"
+
+[1G[0K⠙[1G[0Ksh: line 1: concurrently: command not found
+[1G[0K⠙[1G[0K

@@ -1,0 +1,19 @@
+project_id = "rasbkhlgnaskpiskylxb"
+
+[functions.bulk-insert-questions]
+verify_jwt = false
+
+[functions.translate]
+verify_jwt = false
+
+[functions.news-search]
+verify_jwt = false
+
+[functions.media-embed]
+verify_jwt = false
+
+[functions.quiz-recommend]
+verify_jwt = false
+
+[functions.job-validate]
+verify_jwt = false

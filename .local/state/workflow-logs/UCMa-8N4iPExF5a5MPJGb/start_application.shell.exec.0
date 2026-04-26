@@ -1,0 +1,20 @@
+
+> vite_react_shadcn_ts@0.0.0 dev
+> concurrently "tsx server/index.ts" "vite"
+
+[1G[0K[0m[1][0m 
+[0m[1][0m   [32m[1mVITE[22m v5.4.19[39m  [2mready in [0m[1m177[22m[2m[0m ms[22m
+[0m[1][0m 
+[0m[1][0m   [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5000[22m/[39m
+[0m[1][0m   [32m➜[39m  [1mNetwork[22m: [36mhttp://172.31.102.226:[1m5000[22m/[39m
+[0m[0][0m API server running on port 3000
+[0m[1][0m Browserslist: browsers data (caniuse-lite) is 10 months old. Please run:
+[0m[1][0m   npx update-browserslist-db@latest
+[0m[1][0m   Why you should do it regularly: https://github.com/browserslist/update-db#readme
+[0m[1][0m [2m12:09:01 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css[22m
+[0m[1][0m [2m12:09:08 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css[22m
+[0m[1][0m [2m12:09:14 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Navbar.tsx, /src/index.css[22m
+[0m[1][0m [2m12:09:23 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Navbar.tsx, /src/index.css[22m
+[0m[0][0m [0mtsx server/index.ts exited with code SIGTERM[0m
+[0m[1][0m [0mvite exited with code SIGTERM[0m
+[1G[0K⠙[1G[0K
